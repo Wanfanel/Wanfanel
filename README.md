@@ -2,6 +2,10 @@
 - 🔭 I’m currently working on ~~Unity~~ and Godot
 - :suspect: :octocat:
 
+[Gitlab](https://gitlab.com/Wanfanel)
+[YouTube](https://www.youtube.com/@Wanfanel)
+[Twitch](https://www.twitch.tv/wanfanel)
+[LinkedIn](https://www.linkedin.com/in/janusz-gomu%C5%82kiewicz/)
 <!--
 **Wanfanel/Wanfanel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
